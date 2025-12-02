@@ -81,3 +81,14 @@ Biquadris is implemented in C++ using:
 The architecture emphasizes reliability, maintainability, and clean separation of responsibilities.
 
 ---
+
+## Images
+
+<img width="2226" height="1746" alt="image" src="https://github.com/user-attachments/assets/c7728333-2c49-4cc7-8eca-304452089518" />
+
+<img width="2734" height="1548" alt="image" src="https://github.com/user-attachments/assets/fc3b7a64-2c00-41a3-a0ba-d635f63d8276" />
+
+<img width="2734" height="1548" alt="image" src="https://github.com/user-attachments/assets/b405e490-a415-48d3-b779-a163359e876d" />
+
+
+---
