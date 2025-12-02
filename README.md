@@ -77,7 +77,7 @@ Each level modifies rules such as:
 
 Biquadris is implemented in C++ using:
 - Object-oriented design principles  
-- Design patterns, including Observer and Strategy  
+- Design patterns, including Observer and Factory  
 - Memory-safe ownership via `std::unique_ptr`  
 - Modular components separating Board, Player, Block, Level, and Display  
 - Both text-based and graphical user interfaces  
