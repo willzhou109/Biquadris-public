@@ -6,18 +6,6 @@ Due to University of Waterloo course policies, the full source code is not inclu
 
 ---
 
-## What This Repository Contains
-- High-level project description  
-- Architecture overview  
-- Screenshots / images  
-- Summary of features and design decisions  
-
-If you're interested in viewing the full project, please contact me:
-
-**Email:** w55zhou@uwaterloo.ca
-
----
-
 ## Project Overview
 
 Biquadris is a two-player, turn-based interpretation of the classic arcade game Tetris.  
