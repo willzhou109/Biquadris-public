@@ -8,7 +8,7 @@ Due to University of Waterloo course policies, the full source code is not inclu
 
 ## Project Overview
 
-Biquadris is a two-player, turn-based interpretation of the classic arcade game Tetris.  
+Biquadris is a two-player, turn-based interpretation of the classic arcade game Tetris. Our project received a mark of 99.6/100
 Unlike traditional real-time gameplay, Biquadris gives each player unlimited time per turn to strategically manipulate and place tetrominoes on their own 11×15 grid.
 
 Each turn, a player may:
